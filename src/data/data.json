@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "title": "Apple Inc. (AAPL)",
+        "subtitle": "Revenue (TTM): US$260.174 billion (2019)",
+        "icon": "apple",
+        "para": "Apple designs, manufactures, and markets a broad range of consumer technology products, including smartphones, personal computers, tablets, wearable devices, home entertainment devices, and more. Some of its most popular products include its iPhone smartphones and Mac computers. Apple also has dramatically expanded its sales from services. It operates digital content stores and recently launched several streaming services, including Apple+, a platform for on-demand entertainment content.",
+        "note": "April 1, 1976",
+        "url": "www.apple.com"
+    },
+    {
+        "id": 2,
+        "title": "Microsoft Corp. (MSFT)",
+        "subtitle": "Revenue (TTM): US$125.8 billion (2019)",
+        "icon": "microsoft",
+        "para": "Microsoft Corporation is an American multinational technology company with headquarters in Redmond, Washington. It develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. Its best known software products are the Microsoft Windows line of operating systems, the Microsoft Office suite, and the Internet Explorer and Edge web browsers. Its flagship hardware products are the Xbox video game consoles and the Microsoft Surface lineup of touchscreen personal computers. In 2016, it was the world's largest software maker by revenue (currently Alphabet/Google has more revenue).",
+        "note": "April 4, 1975",
+        "url": "www.microsoft.com"
+    },
+    {
+        "id": 3,
+        "title": "Amazon Web Services",
+        "subtitle": "Revenue (TTM): US$35.03 billion (2019)",
+        "icon": "aws",
+        "para": "Amazon Web Services (AWS) is a subsidiary of Amazon that provides on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis. In aggregate, these cloud computing web services provide a set of primitive abstract technical infrastructure and distributed computing building blocks and tools. One of these services is Amazon Elastic Compute Cloud (EC2), which allows users to have at their disposal a virtual cluster of computers, available all the time, through the Internet.",
+        "note": "March 2006",
+        "url": "aws.amazon.com"
+    },
+    {
+        "id": 4,
+        "title": "eBay Inc",
+        "subtitle": "Revenue (TTM): US$10.746 billion (2018)",
+        "icon": "ebay",
+        "para": "eBay Inc. is an American multinational e-commerce corporation based in San Jose, California, that facilitates consumer-to-consumer and business-to-consumer sales through its website. eBay was founded by Pierre Omidyar in 1995, and became a notable success story of the dot-com bubble. eBay is a multibillion-dollar business with operations in about 33 countries, as of 2018.[1][2] The company manages the eBay website, an online auction and shopping website in which people and businesses buy and sell a wide variety of goods and services worldwide. ",
+        "note": "September 3, 1995",
+        "url": "www.ebay.com"
+    },
+    {
+        "id": 5,
+        "title": "Facebook",
+        "subtitle": "Revenue (TTM): US$2.50 billion (2019)",
+        "icon": "facebook",
+        "para": "Facebook is an American online social media and social networking service based in Menlo Park, California and a flagship service of the namesake company Facebook, Inc. It was founded by Mark Zuckerberg, along with fellow Harvard College students and roommates Eduardo Saverin, Andrew McCollum, Dustin Moskovitz and Chris Hughes.",
+        "note": "February 4, 2004",
+        "url": "www.facebook.com"
+    },
+    {
+        "id": 6,
+        "title": "Google Inc.",
+        "subtitle": "Revenue (TTM): US$66 billion (2014)",
+        "icon": "google",
+        "para": "Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, a search engine, cloud computing, software, and hardware. It is considered one of the Big Four technology companies alongside Amazon, Apple, and Microsoft.",
+        "note": "September 4, 1998",
+        "url": "www.gogle.com"
+    },
+    {
+        "id": 7,
+        "title": "LinkedIn",
+        "subtitle": "Revenue (TTM): US$6.8 billion (2019)",
+        "icon": "linkedin",
+        "para": "LinkedIn is an American business and employment-oriented online service that operates via websites and mobile apps. Launched on May 5, 2003,[3] it is mainly used for professional networking, including employers posting jobs and job seekers posting their CVs. As of 2015, most of the company's revenue came from selling access to information about its members to recruiters and sales professionals.",
+        "note": "December 28, 2002",
+        "url": "www.linkedin.com"
+    },
+    {
+        "id": 8,
+        "title": "Amazon.com Inc.",
+        "subtitle": "Revenue (TTM): US$280.522 billion (2019)",
+        "icon": "amazon",
+        "para": "Amazon.com, Inc. is an American multinational conglomerate technology company based in Seattle that focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence. It is considered one of the Big Four technology companies, along with Google, Apple, and Microsoft. It has been referred to as 'one of the most influential economic and cultural forces in the world' as well as the world's most valuable brand.",
+        "note": "July 5, 1994",
+        "url": "www.amazon.com"
+    },
+    {
+        "id": 9,
+        "title": "Airbnb, Inc.",
+        "subtitle": "Revenue (TTM): US$2.6 billion (2016)",
+        "icon": "airbnb",
+        "para": "Airbnb, Inc. is an American online marketplace company based in San Francisco, California, United States. Airbnb offer arrangement for lodging, primarily homestays, or tourism experiences. The company does not own any of the real estate listings, nor does it host events; it acts as a broker, receiving commissions from each booking.",
+        "note": "August 2008",
+        "url": "www.airbnb.com"
+    }        
+
+]
